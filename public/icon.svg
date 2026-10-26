@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512">
+  <rect width="512" height="512" rx="96" fill="#02050c"/>
+  <rect x="32" y="32" width="448" height="448" rx="64" fill="#070d1a" stroke="#06b6d4" stroke-width="8" stroke-dasharray="16 8"/>
+  <!-- Glowing 7 LED segments drawing '8' -->
+  <g fill="#00f0ff" filter="drop-shadow(0px 0px 12px #00f0ff)">
+    <!-- Segment A -->
+    <polygon points="180,110 330,110 310,140 200,140" />
+    <!-- Segment B -->
+    <polygon points="335,115 365,145 345,235 315,215" />
+    <!-- Segment C -->
+    <polygon points="345,245 365,265 335,385 315,355" />
+    <!-- Segment D -->
+    <polygon points="180,390 330,390 300,360 210,360" />
+    <!-- Segment E -->
+    <polygon points="175,245 195,265 175,355 145,385" />
+    <!-- Segment F -->
+    <polygon points="175,115 205,145 195,215 165,235" />
+    <!-- Segment G -->
+    <polygon points="190,230 320,230 305,250 205,250" />
+  </g>
+  <!-- Accent Tech Text -->
+  <text x="256" y="445" font-family="'Orbitron', sans-serif" font-size="28" font-weight="bold" fill="#00f0ff" text-anchor="middle" letter-spacing="4">
+    3D LED PPT
+  </text>
+</svg>

@@ -1,0 +1,6 @@
+{
+  "name": "Seven Segment LED Display 3D Presentation",
+  "description": "Premium 3D engineering presentation on Seven Segment LED Displays for Basic Electronics by Varun Jangra, featuring realistic procedural PCB environment, interactive 3D LED module, and cinematic lighting.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
